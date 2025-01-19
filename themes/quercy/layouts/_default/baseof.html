@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {{ hugo.Generator }}
+
+	<title>Quercy Veterinaire: {{ .Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+  {{ block "extrameta" . }}{{ end }}
+
+  {{ $sass := resources.Get "sass/style.scss" }}
+  {{ $style := $sass | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" />
+
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+
+	{{ with .OutputFormats.Get "RSS" -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+	{{- end }}
+</head>
+<body class="{{ .Params.cssClassSuffix }}">
+
+	{{ partial "header" . }}
+
+  <div class="container {{ .Params.cssClassSuffix }}">
+      <header class="{{ .Params.cssClassSuffix }}">
+        <h1>
+          <!--
+          <select class="languages">
+          
+            {{ if .IsTranslated }}
+              <option value="{{ .Permalink }}" selected>{{ $.Site.LanguageCode }}</option>
+              {{ range .Translations }}
+                <option value="{{ .Permalink }}">{{ .Language.LanguageCode }}</option>
+              {{ end }}
+
+            {{ else }}
+            
+              {{ range $.Site.Home.AllTranslations }}
+                <option value="{{ .Permalink }}"{{ if (eq $.Site.LanguageCode .Language.LanguageCode) }} selected {{ end }}>{{ .Language.LanguageCode }}</option>
+              {{ end }}
+            {{ end }}
+          
+          </select>
+          -->
+          <a href="/">Quercy Veterinaire</a>
+        </h1>
+      </header>
+
+      <article class="{{ .Params.cssClassSuffix }}">
+    	  {{ block "main" . }}{{ end }}
+    	</article>
+
+      <footer class="{{ .Params.cssClassSuffix }}">
+          <menu>
+              {{ $currentPage := . }}
+              {{ $atURL := $currentPage.RelPermalink }}
+              {{ range .Site.Menus.nav }}
+                  {{ $active := or ($currentPage.IsMenuCurrent "nav" .) ($currentPage.HasMenuCurrent "nav" .) }}
+                  {{ $active = or $active (eq $atURL .URL) }}
+                  {{ $active = or $active (eq .Name $currentPage.Title) }}
+                  <li class="{{ .Pre }} {{ if $active }}active{{ end }}">
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
+          </menu>
+      </footer>
+
+  </div>
+
+	{{ partial "footer" . }}
+	
+	<script type="text/javascript" src="/js/nav.js"></script>
+	
+</body>
+</html>
