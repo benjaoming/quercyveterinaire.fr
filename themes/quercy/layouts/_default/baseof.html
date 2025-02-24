@@ -22,54 +22,93 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicons/manifest.json">
+  <meta name="msapplication-TileColor" content="#E7E8E6">
+  <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
 </head>
 <body class="{{ .Params.cssClassSuffix }}">
 
 	{{ partial "header" . }}
 
-  <div class="container {{ .Params.cssClassSuffix }}">
-      <header class="{{ .Params.cssClassSuffix }}">
+  <header class="{{ .Params.cssClassSuffix }}">
+    <div class="img-background">
+      <nav class="main-nav container">
+      <a href="/" class="logo"><img src="/images/logo.png" /></a>
+      <a href="">Forside</a>
+      <a href="">Vision</a>
+      <a href="">Services</a>
+      <a href="">Presentation</a>
+      <a href="">Contact</a>
+      <a href="" class="language">
+        Language <img src="/images/flag.png" class="icon">
+      </a>
+      <!--
+      <select class="languages">
+      
+        {{ if .IsTranslated }}
+          <option value="{{ .Permalink }}" selected>{{ $.Site.LanguageCode }}</option>
+          {{ range .Translations }}
+            <option value="{{ .Permalink }}">{{ .Language.LanguageCode }}</option>
+          {{ end }}
+
+        {{ else }}
+        
+          {{ range $.Site.Home.AllTranslations }}
+            <option value="{{ .Permalink }}"{{ if (eq $.Site.LanguageCode .Language.LanguageCode) }} selected {{ end }}>{{ .Language.LanguageCode }}</option>
+          {{ end }}
+        {{ end }}
+      
+      </select>
+      -->
+      </nav>
+      <div class="hero container">
         <h1>
-          <!--
-          <select class="languages">
-          
-            {{ if .IsTranslated }}
-              <option value="{{ .Permalink }}" selected>{{ $.Site.LanguageCode }}</option>
-              {{ range .Translations }}
-                <option value="{{ .Permalink }}">{{ .Language.LanguageCode }}</option>
-              {{ end }}
-
-            {{ else }}
-            
-              {{ range $.Site.Home.AllTranslations }}
-                <option value="{{ .Permalink }}"{{ if (eq $.Site.LanguageCode .Language.LanguageCode) }} selected {{ end }}>{{ .Language.LanguageCode }}</option>
-              {{ end }}
-            {{ end }}
-          
-          </select>
-          -->
-          <a href="/"><img src="/images/logo.png" /></a>
+          <span class="highlight-text">{{ .Title }}</span>
         </h1>
-      </header>
+        <p class="subtitle">
+          <span class="highlight-text">{{ .Params.subtitle }}</span>
+        </p>
+        <p>
+          <a href="" class="button">Contact</a>
+        </p>
+      </div>
+    </div>
+  </header>
 
-      <article class="{{ .Params.cssClassSuffix }}">
-    	  {{ block "main" . }}{{ end }}
-    	</article>
+  <div class="container {{ .Params.cssClassSuffix }}">
+    <article class="{{ .Params.cssClassSuffix }}">
+  	  {{ block "main" . }}{{ end }}
+  	</article>
 
-      <footer class="{{ .Params.cssClassSuffix }}">
-          <menu>
-              {{ $currentPage := . }}
-              {{ $atURL := $currentPage.RelPermalink }}
-              {{ range .Site.Menus.nav }}
-                  {{ $active := or ($currentPage.IsMenuCurrent "nav" .) ($currentPage.HasMenuCurrent "nav" .) }}
-                  {{ $active = or $active (eq $atURL .URL) }}
-                  {{ $active = or $active (eq .Name $currentPage.Title) }}
-                  <li class="{{ .Pre }} {{ if $active }}active{{ end }}">
-                  <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-              {{ end }}
-          </menu>
-      </footer>
+    <footer class="{{ .Params.cssClassSuffix }}">
+        <menu>
+            {{ $currentPage := . }}
+            {{ $atURL := $currentPage.RelPermalink }}
+            {{ range .Site.Menus.nav }}
+                {{ $active := or ($currentPage.IsMenuCurrent "nav" .) ($currentPage.HasMenuCurrent "nav" .) }}
+                {{ $active = or $active (eq $atURL .URL) }}
+                {{ $active = or $active (eq .Name $currentPage.Title) }}
+                <li class="{{ .Pre }} {{ if $active }}active{{ end }}">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+        </menu>
+    </footer>
 
   </div>
 
