@@ -8,15 +8,38 @@ params:
   
 ---
 
-## Website under construction
+## Services Proposes pour chien et chat
 
-Et qui eum dolor corrupti. Ut qui voluptates consectetur quis molestias rem. Ducimus cum voluptatem eaque. Laborum aperiam et accusantium blanditiis fugit maxime. Totam debitis magni eligendi.
+Beaucoup d'examens médicaux et soins peuvent être faits dans le cadre rassurant de votre domicile. J'aide à résoudre les problèmes de santé que rencontrent le plus souvent les chiens et les chats, et je propose les services courants dont vous avez besoin en tant que propriétaire d'un animal. 
 
-Aut suscipit dolorem veritatis. Illo nobis consequuntur amet molestias earum corporis et tempore. Fugiat similique voluptatum laboriosam corrupti accusamus officia.
+La liste suivante n'est pas exhaustive, n'hésitez pas à me contacter au 06 98 52 50 19 pour toute question.
 
-Repellendus impedit id esse magnam et ipsum. Perspiciatis beatae dolores in vel. Maxime sapiente eligendi rerum aut eaque nesciunt possimus possimus. Excepturi recusandae ut accusamus voluptas dolorem perferendis.
+* Examen général
+* Vaccination
+* Identification
+* Délivrance de passeport et des documents de voyage international
+* Petites plaies et blessures
+* Boiteries
+* Douleurs chroniques
+* Otites
+* Dermatologie
+* Ophtalmologie
+* Problèmes gastro-intestinales
+* Prises de sang et autres prélèvements non urgent
+* Tranquillisation pour coupe de griffe, tonte etc.
+* Euthanasie
 
-Necessitatibus est dolor facilis excepturi et ut dolores iure. Id tempore hic quasi fuga. Perspiciatis distinctio qui totam ipsum voluptas atque vero.
+### Euthanasie
 
-Minima autem aut assumenda maiores. Qui architecto sed itaque eum et aut voluptas a. Qui eaque soluta in aut.
+Le dernier au revoir à son compagnon n'est pas un moment facile et beaucoup de propriétaires souhaitent que cela ait lieu à la maison. 
+La maison est l'endroit où votre animal se sent le plus en confiance, et où il peut s'endormir calmement avec un univers familier autour de lui. Cela vous offre également, en tant que propriétaire, une atmosphère détendue, de sorte que vous n'ayez pas à consacrer votre attention à autre chose que de dire au revoir à votre chien ou votre chat.
+
+###L'animal a besoin d'être référée?
+
+Certains types d’examens ou de soins nécessitent beaucoup d’équipement et de personnel. Dans ces cas-là, je vous orienterai en toute sécurité, soit directement au téléphone soit suite à la consultation à domicile, vers une structure vétérinaire proche qui pourra s'occuper de votre animal de la meilleure façon possible. Je collabore régulièrement avec les cabinets et cliniques vétérinaires de Parisot, Cahors et Villefranche de Rouergue où vous trouverez des confrères compétents en soins intensifs, radiographie, échographie, soins dentaires et chirurgie.
+
+### Prélèvements
+
+Des prélèvements sanguins, dermatologiques ou autres de nature non urgent peuvent être réalisés a domicile. Certains peuvent être analyses sur place immédiatement, certains seront examinés au microscope dans mon petit laboratoire en fin de journée, puis je vous communiquerai les résultats dans les plus brefs délais. Certains prélèvements seront envoyés et analysés dans un laboratoire de référence. Dans ce cas le résultat me sera communiqué directement puis je vous informerai du résultat.
+
 

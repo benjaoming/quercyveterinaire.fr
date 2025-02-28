@@ -67,14 +67,18 @@
         <h1>
           <span class="highlight-text">{{ .Title }}</span>
         </h1>
+        {{ if .Params.subtitle }}
         <p class="subtitle">
           <span class="highlight-text">{{ .Params.subtitle }}</span>
         </p>
+        {{ end }}
+        {{ if .Params.subsubtitle }}
         <p class="subsubtitle">
           <span class="highlight-text">{{ .Params.subsubtitle }}</span>
         </p>
+        {{ end }}
         <p>
-          <a href="" class="button">Contact</a>
+          <a href="{{ relLangURL "contact" }}" class="button">Contact</a>
         </p>
       </div>
     </div>

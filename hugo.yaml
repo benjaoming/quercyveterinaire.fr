@@ -46,6 +46,7 @@ languages:
     weight: 1
     LanguageName: English
     menu:
+      main:
       - name: "Vision"
         url: "/en/vision/"
         weight: 1

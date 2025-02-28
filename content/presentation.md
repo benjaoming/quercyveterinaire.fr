@@ -8,15 +8,23 @@ params:
   
 ---
 
-## Website under construction
+## Qui suis-je?
 
-Et qui eum dolor corrupti. Ut qui voluptates consectetur quis molestias rem. Ducimus cum voluptatem eaque. Laborum aperiam et accusantium blanditiis fugit maxime. Totam debitis magni eligendi.
+Je m'appelle Yrja, je suis installée dans le Lot à Concots depuis 2017 avec mon mari et nos enfants sur une ferme d'élevage ovin. Originaire de la Norvège, je suis diplômée Docteure Vétérinaire de l'Université de Copenhague, Danemark en 2016. Pendant mes études j'ai aussi suivi des cours en France à l'école vétérinaire ONIRIS à Nantes et à Oslo en Norvège. Depuis la sortie de l'école j'ai travaillé avec les animaux de compagnie et loisir et les animaux de ferme dans différents cabinets vétérinaires. D'abord en Norvège, puis en Suède et en France ou j'exerce maintenant.
 
-Aut suscipit dolorem veritatis. Illo nobis consequuntur amet molestias earum corporis et tempore. Fugiat similique voluptatum laboriosam corrupti accusamus officia.
+### Mon CV
 
-Repellendus impedit id esse magnam et ipsum. Perspiciatis beatae dolores in vel. Maxime sapiente eligendi rerum aut eaque nesciunt possimus possimus. Excepturi recusandae ut accusamus voluptas dolorem perferendis.
+2016: Diplômée Docteure vétérinaire a l'Université de Copenhague, Danemark
 
-Necessitatibus est dolor facilis excepturi et ut dolores iure. Id tempore hic quasi fuga. Perspiciatis distinctio qui totam ipsum voluptas atque vero.
+2016: Vétérinaire petits et grands animaux Andøya, Norvege
 
-Minima autem aut assumenda maiores. Qui architecto sed itaque eum et aut voluptas a. Qui eaque soluta in aut.
+2016: Vétérinaire petits et grands animaux Hattfjelldal Grane, Norvege
+
+2016-2017: Vétérinaire grands animaux, Centre Vétérinaire des Fauvettes, Gourdon
+
+2019: Vétérinaire petits et grands animaux, Distriktsveterinärerna Väderstad, Suède
+
+2019-2020: Vétérinaire petits et grands animaux, Cabinet vétérinaire de Mas de Cazes, Parisot
+
+2021-2024: Vétérinaire petits animaux, Cabinet Vétérinaire de Lalbenque et Clinique des Arches, Cahors
 

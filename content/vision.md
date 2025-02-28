@@ -8,15 +8,13 @@ params:
   
 ---
 
-## Website under construction
+## Ma Vision
 
-Et qui eum dolor corrupti. Ut qui voluptates consectetur quis molestias rem. Ducimus cum voluptatem eaque. Laborum aperiam et accusantium blanditiis fugit maxime. Totam debitis magni eligendi.
+Ma pratique s’articule autour de la responsabilité, de l’honnêteté et de la présence, des valeurs et des repères importants dans mon travail de vétérinaire. La bienveillance et le respect envers vous et votre animal sont des évidences pour moi.
 
-Aut suscipit dolorem veritatis. Illo nobis consequuntur amet molestias earum corporis et tempore. Fugiat similique voluptatum laboriosam corrupti accusamus officia.
+Ma vision est de créer un service vétérinaire où l'on prend le temps de soigner et de respecter l'animal selon ses besoins. Je souhaite vous proposer une consultation vétérinaire avec une présence totale et une vraie écoute envers votre animal et vous. Pour cela il faut du temps et du calme. A domicile je n'ai pas de patients qui m'attendent de l'autre côté de la porte et je ne suis pas sollicitée par des collègues. 
 
-Repellendus impedit id esse magnam et ipsum. Perspiciatis beatae dolores in vel. Maxime sapiente eligendi rerum aut eaque nesciunt possimus possimus. Excepturi recusandae ut accusamus voluptas dolorem perferendis.
+J'emmène à votre domicile toutes mes connaissances ainsi que mon expérience de vétérinaire pour offrir les meilleurs soins à votre animal avec rigueur et professionnalisme.
 
-Necessitatibus est dolor facilis excepturi et ut dolores iure. Id tempore hic quasi fuga. Perspiciatis distinctio qui totam ipsum voluptas atque vero.
-
-Minima autem aut assumenda maiores. Qui architecto sed itaque eum et aut voluptas a. Qui eaque soluta in aut.
+Mon souhait est aussi de créer un service vétérinaire local, proche de vous, où le contact avec les propriétaires d'animaux est simple, direct et ou vous vous sentez en confiance. Quand vous appelez Quercy Vétérinaire c'est moi qui vous répond, quand on vient a la maison c'est encore moi, et quand vous avez une question pour le suivi de votre animal, c'est encore moi. Je souhaite ainsi créer une confiance entre propriétaire, animal et vétérinaire.
 

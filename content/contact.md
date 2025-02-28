@@ -8,15 +8,23 @@ params:
   
 ---
 
-## Website under construction
+## Contact et horaires
 
-Et qui eum dolor corrupti. Ut qui voluptates consectetur quis molestias rem. Ducimus cum voluptatem eaque. Laborum aperiam et accusantium blanditiis fugit maxime. Totam debitis magni eligendi.
+Vous pouvez m'appeler du lundi au vendredi de 9h à 17h. Laissez un message si je ne réponds pas, il est possible que je sois en consultation.
+Rendez vous: nous conviendrons d’un rendez à votre domicile par téléphone à l'heure qui vous conviendra.
 
-Aut suscipit dolorem veritatis. Illo nobis consequuntur amet molestias earum corporis et tempore. Fugiat similique voluptatum laboriosam corrupti accusamus officia.
+**06 98 52 50 19**
+[yrja@quercyveterinaire.fr](mailto:yrja@quercyveterinaire.fr)
 
-Repellendus impedit id esse magnam et ipsum. Perspiciatis beatae dolores in vel. Maxime sapiente eligendi rerum aut eaque nesciunt possimus possimus. Excepturi recusandae ut accusamus voluptas dolorem perferendis.
+yrjaquercyvet@xmail.fr
 
-Necessitatibus est dolor facilis excepturi et ut dolores iure. Id tempore hic quasi fuga. Perspiciatis distinctio qui totam ipsum voluptas atque vero.
+Vous pouvez suivre des nouvelles sur facebook ou instagram:
 
-Minima autem aut assumenda maiores. Qui architecto sed itaque eum et aut voluptas a. Qui eaque soluta in aut.
+* FBQuercyvet
+* IGQuercyvet
 
+### Urgences en soirée, nuit et weekends
+
+Sont assurées par le cabinet vétérinaire du Mas de Cazes à Parisot. J’y suis régulièrement de garde.
+
+Numéro de téléphone: 05 63 28 24 80
