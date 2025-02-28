@@ -93,12 +93,43 @@ header {
       }
   }
 
+  .contact-button {
+    display: none;
+  }
+
   .img-background {
     background: url("/images/photo04.jpeg") no-repeat center center;
-    background-size: cover;
+    background-size: fill;
     display: block;
     margin: auto auto;
     min-height: 500px;
+  }
+  
+  &.vision {
+    .img-background {
+      background: url("/images/photo03.jpeg") no-repeat center center;
+    }  
+  }
+  &.services {
+    .img-background {
+      background: url("/images/photo01.jpeg") no-repeat center center;
+    }  
+  }
+  &.presentation {
+    .img-background {
+      background: url("/images/photo07.jpeg") no-repeat center center;
+    }  
+  }
+  &.contact {
+    .img-background {
+      background: url("/images/photo05.jpeg") no-repeat center center;
+    }  
+  }
+  
+  &.main {
+    .contact-button {
+      display: block;
+    }
   }
   
   .hero {

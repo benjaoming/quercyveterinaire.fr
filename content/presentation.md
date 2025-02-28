@@ -1,10 +1,10 @@
 ---
 date: "2024-05-01"
 draft: false
-title: About
+title: Presentation
 
 params:
-  cssClassSuffix: "about"
+  cssClassSuffix: "presentation"
   
 ---
 
