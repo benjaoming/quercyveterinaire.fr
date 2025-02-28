@@ -4,7 +4,7 @@ date: "2024-05-03"
 draft: false
 
 params:
-  cssClassSuffix: "story"
+  cssClassSuffix: "main"
   subtitle: "This is a work in progress"
 ---
 

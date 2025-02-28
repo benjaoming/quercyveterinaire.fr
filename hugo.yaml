@@ -15,7 +15,7 @@ languages:
   fr:
     title: "Quercy Veterinaire"
     params:
-      description: "..."
+      description: "Vétérinaire à domicile sur le plateau de Limogne en Quercy et ses alentours"
     weight: 2
     # First Hugo looks in your post front matter for an images value (images: [""])
     # Then Hugo searchs for image page resources with feature, cover or thumbnail in their name. These are images files under a directory that matches the post (e.g. content\posts\first-post)
@@ -26,28 +26,36 @@ languages:
 #      images: ["/images/some_card_da.png"]
     LanguageName: Française
     menu:
-      nav:
-      - name: "About"
-        url: "/fr/about/"
+      main:
+      - name: "Vision"
+        url: "/vision/"
         weight: 1
-      - name: "Historie"
-        url: "/fr/"
+      - name: "Services"
+        url: "/services/"
         weight: 2
-      - name: "Contacte"
-        url: "/fr/contact/"
+      - name: "Presentation"
+        url: "/presentation/"
         weight: 3
+      - name: "Contact"
+        url: "/contact/"
+        weight: 4
   en:
     title: "Quercy Veterinaire"
     params:
-      description: "Mirroring places skins of memories emerges on the surfaces on the bodies."
+      description: "Your at home veterinarian in south east Lot around Limogne en Quercy."
     weight: 1
     LanguageName: English
     menu:
-      nav:
-      - name: "About"
-        url: "/about/"
+      - name: "Vision"
+        url: "/en/vision/"
         weight: 1
-      - name: "Contact"
-        url: "/contact/"
+      - name: "Services"
+        url: "/en/services/"
         weight: 2
+      - name: "Presentation"
+        url: "/en/presentation/"
+        weight: 3
+      - name: "Contact"
+        url: "/en/contact/"
+        weight: 4
 

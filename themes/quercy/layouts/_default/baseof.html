@@ -43,17 +43,15 @@
 </head>
 <body class="{{ .Params.cssClassSuffix }}">
 
-	{{ partial "header" . }}
-
   <header class="{{ .Params.cssClassSuffix }}">
     <div class="img-background">
       <nav class="main-nav container">
       <a href="/" class="logo"><img src="/images/logo.svg" /></a>
-      <a href="">Forside</a>
-      <a href="">Vision</a>
-      <a href="">Services</a>
-      <a href="">Presentation</a>
-      <a href="">Contact</a>
+	    {{ with .Site.Menus.main }}
+			    {{ range . }}
+			    <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+			    {{ end }}
+	    {{ end }}
 
       {{ range $.Site.Home.AllTranslations }}
         {{ if (eq $.Site.LanguageCode .Language.LanguageCode) }}
@@ -72,6 +70,9 @@
         <p class="subtitle">
           <span class="highlight-text">{{ .Params.subtitle }}</span>
         </p>
+        <p class="subsubtitle">
+          <span class="highlight-text">{{ .Params.subsubtitle }}</span>
+        </p>
         <p>
           <a href="" class="button">Contact</a>
         </p>
@@ -84,25 +85,44 @@
   	  {{ block "main" . }}{{ end }}
   	</article>
 
-    <footer class="{{ .Params.cssClassSuffix }}">
-        <menu>
-            {{ $currentPage := . }}
-            {{ $atURL := $currentPage.RelPermalink }}
-            {{ range .Site.Menus.nav }}
-                {{ $active := or ($currentPage.IsMenuCurrent "nav" .) ($currentPage.HasMenuCurrent "nav" .) }}
-                {{ $active = or $active (eq $atURL .URL) }}
-                {{ $active = or $active (eq .Name $currentPage.Title) }}
-                <li class="{{ .Pre }} {{ if $active }}active{{ end }}">
-                <a href="{{ .URL }}">{{ .Name }}</a>
-              </li>
-            {{ end }}
-        </menu>
-    </footer>
-
   </div>
 
-	{{ partial "footer" . }}
-	
+
+  <footer class="{{ .Params.cssClassSuffix }}">
+    <div class="container {{ .Params.cssClassSuffix }}">
+      
+      <div class="footer-columns">
+      
+        <div class="footer-column">
+          <h5>Contact</h5>
+          <p>
+            Yrja Lindeberg<br>
+            06 98 52 50 19<br>
+            <a href="mailto:yrja@quercyveterinaire.fr">yrja@quercyveterinaire.fr</a>
+          </p>
+        </div>
+        <div class="footer-column">
+          <a href="/" class="logo"><img src="/images/logo.svg" /></a>
+        </div>
+        <div class="footer-column opening-hours">
+        
+          <h5>Horaires de contact:</h5>
+          <p>
+            Lundi: 9h-17h<br>
+            Mardi: 9h-17h<br>
+            Mercredi: 9h-17h<br>
+            jeudi: 9h-17h<br>
+            Vendredi: 9h-17h<br>
+            Samedi: ferme<br>
+            Dimanche: ferme
+          </p>
+        </div>
+      
+      </div>
+      
+    </div>
+  </footer>
+
 	<script type="text/javascript" src="/js/nav.js"></script>
 	
 </body>
