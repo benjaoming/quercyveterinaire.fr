@@ -1,11 +1,12 @@
 ---
-title: "Welcome"
+title: "Quercy Veterinaire"
 date: "2024-05-03"
 draft: false
 
 params:
   cssClassSuffix: "main"
-  subtitle: "This is a work in progress"
+  subtitle: "Your at home veterinarian in south east Lot around Limogne en Quercy."
+  subsubtitle: "Vet Yrja Lindeberg offers at home veterinary care in a calm, compassionate environment attentive to the needs of each animal and owner. I do home visits in a large geographical area around Concots/Limogne en Quercy."
 ---
 
 ## Why a veterinay consultation at home?
