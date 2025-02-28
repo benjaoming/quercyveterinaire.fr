@@ -48,33 +48,22 @@
   <header class="{{ .Params.cssClassSuffix }}">
     <div class="img-background">
       <nav class="main-nav container">
-      <a href="/" class="logo"><img src="/images/logo.png" /></a>
+      <a href="/" class="logo"><img src="/images/logo.svg" /></a>
       <a href="">Forside</a>
       <a href="">Vision</a>
       <a href="">Services</a>
       <a href="">Presentation</a>
       <a href="">Contact</a>
-      <a href="" class="language">
-        Language <img src="/images/flag.png" class="icon">
-      </a>
-      <!--
-      <select class="languages">
-      
-        {{ if .IsTranslated }}
-          <option value="{{ .Permalink }}" selected>{{ $.Site.LanguageCode }}</option>
-          {{ range .Translations }}
-            <option value="{{ .Permalink }}">{{ .Language.LanguageCode }}</option>
-          {{ end }}
 
+      {{ range $.Site.Home.AllTranslations }}
+        {{ if (eq $.Site.LanguageCode .Language.LanguageCode) }}
         {{ else }}
-        
-          {{ range $.Site.Home.AllTranslations }}
-            <option value="{{ .Permalink }}"{{ if (eq $.Site.LanguageCode .Language.LanguageCode) }} selected {{ end }}>{{ .Language.LanguageCode }}</option>
-          {{ end }}
+        <a href="{{ .Permalink }}" class="language" title="{{ .Language.LanguageCode }}">
+          Language <img src="/images/flag.png" class="icon">
+        </a>
         {{ end }}
-      
-      </select>
-      -->
+      {{ end }}
+
       </nav>
       <div class="hero container">
         <h1>

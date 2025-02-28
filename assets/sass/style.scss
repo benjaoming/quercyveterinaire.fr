@@ -55,7 +55,9 @@ header {
   color: #FFF;
   
   a, a:visited, a:active {
+    text-shadow: #000 1px 0 2px;
     color: #FFF;
+    text-decoration: none;
   }
 
   .main-nav {
@@ -65,15 +67,13 @@ header {
     column-gap: 20px;
     align-items: center;
     align-content: space-between;
-    .logo {
-      width: 100px;
-      height: 100px;
-    }
+    font-size: 1.8em;
+
     @media only screen and (max-width: 800px) {
       .logo {
       }
     }
-
+  
     .language {
       margin-left: auto;
     }
@@ -88,8 +88,8 @@ header {
     
     img {
       display: block;
-      width: 100px;
-    }
+      width: 150px;
+      }
   }
 
   .img-background {
