@@ -69,6 +69,7 @@ header {
     align-items: center;
     align-content: space-between;
     font-size: 1.8em;
+    padding-top: 50px;
 
     @media only screen and (max-width: 800px) {
       .logo {
@@ -99,7 +100,7 @@ header {
 
   .img-background {
     background: url("/images/photo04.jpeg") no-repeat center center;
-    background-size: fill;
+    background-size: cover;
     display: block;
     margin: auto auto;
     min-height: 500px;
@@ -107,23 +108,23 @@ header {
   
   &.vision {
     .img-background {
-      background: url("/images/photo03.jpeg") no-repeat center center;
+      background-image: url("/images/photo03.jpeg");
     }  
   }
   &.services {
     .img-background {
-      background: url("/images/photo01.jpeg") no-repeat center center;
-    }  
+      background-image: url("/images/photo01.jpeg");
+    }
   }
   &.presentation {
     .img-background {
-      background: url("/images/photo07.jpeg") no-repeat center center;
-    }  
+      background-image: url("/images/photo07.jpeg");
+    }
   }
   &.contact {
     .img-background {
-      background: url("/images/photo05.jpeg") no-repeat center center;
-    }  
+      background-image: url("/images/photo05.jpeg");
+    }
   }
   
   &.main {
