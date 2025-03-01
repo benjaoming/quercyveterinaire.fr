@@ -34,7 +34,7 @@ La liste suivante n'est pas exhaustive, n'hésitez pas à me contacter au 06 98 
 Le dernier au revoir à son compagnon n'est pas un moment facile et beaucoup de propriétaires souhaitent que cela ait lieu à la maison. 
 La maison est l'endroit où votre animal se sent le plus en confiance, et où il peut s'endormir calmement avec un univers familier autour de lui. Cela vous offre également, en tant que propriétaire, une atmosphère détendue, de sorte que vous n'ayez pas à consacrer votre attention à autre chose que de dire au revoir à votre chien ou votre chat.
 
-###L'animal a besoin d'être référée?
+### L'animal a besoin d'être référée?
 
 Certains types d’examens ou de soins nécessitent beaucoup d’équipement et de personnel. Dans ces cas-là, je vous orienterai en toute sécurité, soit directement au téléphone soit suite à la consultation à domicile, vers une structure vétérinaire proche qui pourra s'occuper de votre animal de la meilleure façon possible. Je collabore régulièrement avec les cabinets et cliniques vétérinaires de Parisot, Cahors et Villefranche de Rouergue où vous trouverez des confrères compétents en soins intensifs, radiographie, échographie, soins dentaires et chirurgie.
 

@@ -14,9 +14,8 @@ Vous pouvez m'appeler du lundi au vendredi de 9h à 17h. Laissez un message si j
 Rendez vous: nous conviendrons d’un rendez à votre domicile par téléphone à l'heure qui vous conviendra.
 
 **06 98 52 50 19**
-[yrja@quercyveterinaire.fr](mailto:yrja@quercyveterinaire.fr)
 
-yrjaquercyvet@xmail.fr
+[yrja@quercyveterinaire.fr](mailto:yrja@quercyveterinaire.fr)
 
 Vous pouvez suivre des nouvelles sur facebook ou instagram:
 

@@ -215,6 +215,12 @@ footer {
   
   p {
     margin-bottom: 20px;
+    line-height: 150%;
+  }
+  
+  p.minor {
+    font-size: 0.8em;
+    color: #ccc;
   }
 
   .footer-columns {
