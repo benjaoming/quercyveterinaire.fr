@@ -13,13 +13,13 @@ params:
 You can call me Monday to Friday from 9 a.m. to 4 p.m. Leave a message if I don't respond, I could be doing a home visit.
 Appointments: By telephone, we arrange your appointment at home at a time that suits you.
 
-**06 98 52 50 19**
+**06 98 52 50 19**<br>
 [yrja@quercyveterinaire.fr](mailto:yrja@quercyveterinaire.fr)
 
-You can see  news and keep updated on Facebook or Instagram
+You can see news and keep updated on Facebook or Instagram:
 
-* FBQuercyvet
-* IGQuercyvet
+<a href="https://www.facebook.com/Quercyvet" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">FBQuercyvet</a><br>
+<a href="https://www.instagram.com/quercyveterinaire/" class="icon-link"><img src="/images/icon-instagram.svg" class="icon">@quercyveterinaire</a>
 
 ### Emergencies evening, night and weekends 
 
