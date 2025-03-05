@@ -18,7 +18,7 @@ Appointments: By telephone, we arrange your appointment at home at a time that s
 
 You can see news and keep updated on Facebook or Instagram:
 
-<a href="https://www.facebook.com/Quercyvet" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">FBQuercyvet</a><br>
+<a href="https://www.facebook.com/profile.php?id=61573708923351" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">@Quercy-Vétérinaire</a><br>
 <a href="https://www.instagram.com/quercyveterinaire/" class="icon-link"><img src="/images/icon-instagram.svg" class="icon">@quercyveterinaire</a>
 
 ### Emergencies evening, night and weekends 

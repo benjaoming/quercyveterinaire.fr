@@ -19,7 +19,7 @@ Rendez vous: nous conviendrons d’un rendez à votre domicile par téléphone �
 
 Vous pouvez suivre des nouvelles sur facebook ou instagram:
 
-<a href="https://www.facebook.com/Quercyvet" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">FBQuercyvet</a><br>
+<a href="https://www.facebook.com/profile.php?id=61573708923351" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">@Quercy-Vétérinaire</a><br>
 <a href="https://www.instagram.com/quercyveterinaire/" class="icon-link"><img src="/images/icon-instagram.svg" class="icon">@quercyveterinaire</a>
 
 ### Urgences en soirée, nuit et weekends
