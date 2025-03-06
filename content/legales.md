@@ -11,17 +11,13 @@ params:
 ## Mentions Légales
 
 ÉDITEUR:
-Le site www.quercyvet.fr est édité par LINDEBERG Yrja entreprise individuelle immatriculée sous le numéro xxxxxxxx. 
+Le site www.quercyvet.fr est édité par LINDEBERG Yrja entreprise individuelle immatriculée sous le numéro 941 439 812.
 
 Siège social : 437 Chemin de la Logette 46260 Concots<br>
-Téléphone : 06xxxxxxx<br>
-Courriel  quercyveterinaire@xmail.fr<br>
+Téléphone : 06 98 52 50 19<br>
+Courriel: yrjaquercyveterinaire@gmail.com<br>
 Directeur de publication : LINDEBERG Yrja<br>
-HÉBERGEUR: 
-NOM
-ADRESSE
-Tel:
-CRÉDITS 
+
 Conception et réalisation du site : TAJS <3 BALDER
 
 PROPRIÉTÉ INTELLECTUELLE: 
