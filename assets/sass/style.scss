@@ -62,37 +62,38 @@ header {
     text-decoration: none;
   }
 
-  .main-nav {
-    display: flex;
-    flex-wrap: wrap;
+  .logo-and-nav {
+    display: flex;    
+    align-items: center;
     width: 100%;
     column-gap: 20px;
-    align-items: center;
-    align-content: space-between;
-    font-size: 1.8em;
-    padding-top: 50px;
-
-    @media only screen and (max-width: 800px) {
-      .logo {
-      }
-    }
-  
     .language {
       margin-left: auto;
+      margin-right: 50px;
+      white-space: nowrap;
     }
     a .icon {
       width: 30px;
       display: inline-block;
       margin-bottom: -5px;
     }
+    font-size: 1.8em;
+  }
+
+  .main-nav {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    column-gap: 25px;
+    align-items: center;
+
   }
 
   .logo {
-    
     img {
       display: block;
       width: 150px;
-      }
+    }
   }
 
   .contact-button {
@@ -138,6 +139,10 @@ header {
   
     padding: 40px 0;
   
+    @media only screen and (max-width: 1200px) {
+        margin: 0 20px;
+    }
+
     h1 {
       font-size: 4em;
       margin: 50px 0;

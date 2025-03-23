@@ -45,24 +45,27 @@
 
   <header class="{{ .Params.cssClassSuffix }}">
     <div class="img-background">
-      <nav class="main-nav container">
-      <a href="/" class="logo"><img src="/images/logo.svg" /></a>
-	    {{ with .Site.Menus.main }}
-			    {{ range . }}
-			    <a href="{{ .URL | relURL }}">{{ .Name }}</a>
-			    {{ end }}
-	    {{ end }}
+    
+      <div class="logo-and-nav container">
+        <a href="/" class="logo"><img src="/images/logo.svg" /></a>
+        <nav class="main-nav">
+	      {{ with .Site.Menus.main }}
+			      {{ range . }}
+			      <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+			      {{ end }}
+	      {{ end }}
 
-      {{ range $.Site.Home.AllTranslations }}
-        {{ if (eq $.Site.LanguageCode .Language.LanguageCode) }}
-        {{ else }}
-        <a href="{{ .Permalink }}" class="language" title="{{ .Language.LanguageCode }}">
-          Language <img src="/images/flag.png" class="icon">
-        </a>
+        </nav>
+        {{ range $.Site.Home.AllTranslations }}
+          {{ if (eq $.Site.LanguageCode .Language.LanguageCode) }}
+          {{ else }}
+          <a href="{{ .Permalink }}" class="language" title="{{ .Language.LanguageCode }}">
+            Language <img src="/images/flag.png" class="icon">
+          </a>
+          {{ end }}
         {{ end }}
-      {{ end }}
-
-      </nav>
+      </div>
+      
       <div class="hero container">
         <h1>
           <span class="highlight-text">{{ .Title }}</span>
