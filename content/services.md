@@ -1,14 +1,14 @@
 ---
 date: "2024-05-01"
 draft: false
-title: Services
+title: Mes services
 
 params:
   cssClassSuffix: "services"
   
 ---
 
-## Services Proposes pour chien et chat
+## Petits animaux
 
 Beaucoup d'examens médicaux et soins peuvent être faits dans le cadre rassurant de votre domicile. J'aide à résoudre les problèmes de santé que rencontrent le plus souvent les chiens et les chats, et je propose les services courants dont vous avez besoin en tant que propriétaire d'un animal. 
 

@@ -27,13 +27,13 @@ languages:
     LanguageName: Française
     menu:
       main:
-      - name: "Vision"
+      - name: "Ma vision"
         url: "/vision/"
         weight: 1
-      - name: "Services"
+      - name: "Mes services"
         url: "/services/"
         weight: 2
-      - name: "Presentation"
+      - name: "Qui suis-je"
         url: "/presentation/"
         weight: 3
       - name: "Contact"
@@ -47,13 +47,13 @@ languages:
     LanguageName: English
     menu:
       main:
-      - name: "Vision"
+      - name: "My Vision"
         url: "/en/vision/"
         weight: 1
       - name: "Services"
         url: "/en/services/"
         weight: 2
-      - name: "Presentation"
+      - name: "Who Am I"
         url: "/en/presentation/"
         weight: 3
       - name: "Contact"

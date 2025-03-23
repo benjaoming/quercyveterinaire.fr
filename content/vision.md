@@ -1,7 +1,7 @@
 ---
 date: "2024-05-01"
 draft: false
-title: Vision
+title: Ma vision
 
 params:
   cssClassSuffix: "vision"
