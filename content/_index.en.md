@@ -5,10 +5,10 @@ draft: false
 
 params:
   cssClassSuffix: "main"
-  subtitle: "Your at home veterinarian in south east Lot around Limogne en Quercy."
-  subsubtitle: "Vet Yrja Lindeberg offers at home veterinary care in a calm, compassionate environment attentive to the needs of each animal and owner. I do home visits in a large geographical area around Concots/Limogne en Quercy."
+  subtitle: "Your 'at home' veterinarian based in South-East Lot"
+  subsubtitle: "Veterinarian Yrja Lindberg, the founder of Quercy Vétérinaire, offers veterinary care in the comfort of your own home, in and around Limogne-en-Quercy/Concots, and the surrounding geographical area. Home visits for pets often equate to a calmer experience for both pet and owner alike, and Yrja is committed to creating a compassionate environment and providing attentive care, responsive to the needs of the individual animal and family."
 ---
 
-## Why a veterinay consultation at home?
+## Veterinary consultations at home... Why?
 
-For some animals, traveling to or visiting the veterinary clinic can be stressful or cause fear. Perhaps you know a dog showing signs of stress alreadu at the vets parking lot? Or have you ever had a hard time getting your cat into a transport cage? A visit to the veterinarian can be a stressful experience for the animal and  its owner for different reasons. Home consultations is an alternative for you who would like veterinary care in the familiar and reassuring environment of your home.
+For some animals, travelling to, or visiting the veterinary clinic can be stressful or cause fear, particularly if the animal is feeling unwell. Perhaps you know of a dog who already shows signs of stress in the vet's car park? Or have you ever had a hard time getting your cat into its carrier? For a number of reasons, a visit to the vet can be a distressing experience for your animal, as well as for you. 'At home' consultations are an alternative option, allowing you to receive the veterinary care you need, in the familiarity and comfort of your own home, a reassuring environment for your pet.
