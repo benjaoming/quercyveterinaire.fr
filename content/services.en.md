@@ -25,6 +25,7 @@ A lot of veterinary examinations and treatments can be done at home. I can help 
 * Gastrointestinal upsets
 * Blood tests and other non-urgent sample taking
 * Sedation for cutting nails, shaving etc
+* End-of-life care and euthanasia
 
 ### Referrals to a clinic
 
@@ -32,6 +33,10 @@ Certain types of examinations or treatments require a lot of specialist equipmen
 
 Blood, skin or other samples that are non-urgent can be taken during the home visit. Some samples are treated on site, some will be examined under the microscope in my small laboratory at the end of the day, and I aim to give you the results as quickly as possible. Some samples are sent to a referral laboratory and it may be a few days before you receive your results. As soon as I have the results, I will inform you. 
 
-### Euthanasia 
+### End-of-life care and euthanasia 
 
-Saying goodbye to your beloved companion is not easy and many owners prefer to say goodbye at home. Home is where your pet feels most reassured, and the place where he or she can go to sleep peacefully, in familiar and intimate surroundings, with the support of their loved ones. It also grants you, as the owner, a calm and gentle atmosphere, where you can feel as comfortable as possible without having to pay attention to anything other than saying goodbye. 
+Saying goodbye to your beloved companion is not easy and many owners prefer to say goodbye at home. Home is where your pet feels most reassured, and the place where he or she can go to sleep peacefully, in familiar and intimate surroundings, with the support of their loved ones. It also grants you, as the owner, a calm and gentle atmosphere, where you can feel as comfortable as possible without having to pay attention to anything other than saying goodbye.
+
+### Emergencies
+
+Emergencies outside of opening hours are referred to the Clinique Vétérinaire de Mas de Cazes in Parisot where I'm also on call on a regular basis. Contact 06 72 58 44 91 / 05 63 28 24 80

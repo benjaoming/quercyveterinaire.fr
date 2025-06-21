@@ -12,6 +12,8 @@ params:
 
 My name is Yrja, I have been living in Concots in the Lot since 2017 with my husband and our children on our sheep farm. Originally from Norway, I graduated as a vet from the University of Copenhagen, Denmark in 2016. During my studies I also took courses in France at the ONIRIS veterinary school in Nantes and in Oslo, Norway. Since leaving school I have worked with both small and large animals in different veterinary practices first in Norway and Sweden, then in France where I now work. I'm fluent in both English and French as well as Norwegian, Swedish and Danish.
 
+I started Quercy Vétérinaire in april 2025 to offer a veterinary service to animals and their owners around Concots and Limogne en Quercy. In addition to the home visits I also consult at the Clinique Vétérinaire de Mas de Cazes in Parisot. I am a member of CapDouleur ([www.capdouleur.fr](https://www.capdouleur.fr)) and l'Association des Vétérinaires à Domicile AVAD ([www.veterinairesadomicile.fr](https://www.veterinairesadomicile.fr))
+
 ### My CV
 
 2016: Graduation Master of Veterinary Medicine at the University of Copenhagen, Denmark
