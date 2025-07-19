@@ -21,5 +21,5 @@ Keep up-to-date with my news on Facebook and Instagram:
 <a href="https://www.facebook.com/profile.php?id=61573708923351" class="icon-link" target="_blank"><img src="/images/icon-facebook.svg" class="icon">@Quercy-Vétérinaire</a><br>
 <a href="https://www.instagram.com/quercyveterinaire/" class="icon-link"><img src="/images/icon-instagram.svg" class="icon">@quercyveterinaire</a>
 
-Emergencies: In the case of an emergency, or during the evenings, night, weekends and holidays, please call 06 72 58 44 91 / 05 63 28 24 80 (Clinique Vétérinaire de Mas de Cazes in Parisot)
+Emergencies: In the case of an emergency, or during the evenings, night, weekends and holidays, please call 05 63 28 24 80 (Clinique Vétérinaire de Mas de Cazes in Parisot)
 
