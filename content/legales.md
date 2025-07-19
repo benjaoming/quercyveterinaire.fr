@@ -10,6 +10,8 @@ params:
 
 ## Mentions Légales
 
+[Conditions Generales de Fonctionnement](/site_conditions.pdf)
+
 ÉDITEUR:
 Le site www.quercyveterinaire.fr est édité par LINDEBERG Yrja entreprise individuelle immatriculée sous le numéro 941 439 812.
 
