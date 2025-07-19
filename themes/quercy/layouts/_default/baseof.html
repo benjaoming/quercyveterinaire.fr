@@ -43,6 +43,12 @@
 </head>
 <body class="{{ .Params.cssClassSuffix }}">
 
+  {{ if .Site.Params.site_banner }}
+  <div class="container {{ .Params.cssClassSuffix }}">
+    {{ .Site.Params.site_banner }}
+  </div>
+  {{ end }}
+
   <header class="{{ .Params.cssClassSuffix }}">
     <div class="img-background">
     

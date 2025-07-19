@@ -16,6 +16,7 @@ languages:
     title: "Quercy Veterinaire"
     params:
       description: "Vétérinaire à domicile sur le plateau de Limogne en Quercy et ses alentours"
+      site_banner: "Je suis en vacances du 14 juillet au 17 août. Je reste joignable par sms et mail. Pour tout urgence veuillez contacter la Clinique Vétérinaire de Mas de Cazes à Parisot au 05 63 28 24 80"
     weight: 2
     # First Hugo looks in your post front matter for an images value (images: [""])
     # Then Hugo searchs for image page resources with feature, cover or thumbnail in their name. These are images files under a directory that matches the post (e.g. content\posts\first-post)
@@ -43,6 +44,7 @@ languages:
     title: "Quercy Veterinaire"
     params:
       description: "Your at home veterinarian in south east Lot around Limogne en Quercy."
+      site_banner: "I am on vacation from the 14th of July - 17th of August. I still answer sms and mails during this period. In the case of emergency please contact the Clinique Vétérinaire de Mas de Cazes in Parisot:  05 63 28 24 80"
     weight: 1
     LanguageName: English
     menu:
